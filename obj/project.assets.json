@@ -132,7 +132,7 @@
           }
         }
       },
-      "YXH_Tools_Files/1.0.3": {
+      "YXH_Tools_Files/1.0.20": {
         "type": "package",
         "dependencies": {
           "System.Configuration.ConfigurationManager": "7.0.0"
@@ -329,22 +329,22 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "YXH_Tools_Files/1.0.3": {
-      "sha512": "K+rNMZTnQ2l9ImjHoYd2SZXPBckrpXePdilou0sqhSqDCyIVms/oGqKLUh5w5w0y4B3X2lvWB5molM6HfGknxg==",
+    "YXH_Tools_Files/1.0.20": {
+      "sha512": "o9rW4+Yo1qAU5yQYo7ZXixNoRdKWAOH24Ar75CUGe1/25jGFw2bFRW7t/dg0BxQ3jpMZVkrEJUNqhiLmUGC3KQ==",
       "type": "package",
-      "path": "yxh_tools_files/1.0.3",
+      "path": "yxh_tools_files/1.0.20",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "lib/net6.0/YXH_Tools_Files.dll",
-        "yxh_tools_files.1.0.3.nupkg.sha512",
+        "yxh_tools_files.1.0.20.nupkg.sha512",
         "yxh_tools_files.nuspec"
       ]
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "YXH_Tools_Files >= 1.0.3"
+      "YXH_Tools_Files >= 1.0.20"
     ]
   },
   "packageFolders": {
@@ -388,7 +388,7 @@
         "dependencies": {
           "YXH_Tools_Files": {
             "target": "Package",
-            "version": "[1.0.3, )"
+            "version": "[1.0.20, )"
           }
         },
         "imports": [

@@ -42,7 +42,7 @@
           "dependencies": {
             "YXH_Tools_Files": {
               "target": "Package",
-              "version": "[1.0.3, )"
+              "version": "[1.0.20, )"
             }
           },
           "imports": [

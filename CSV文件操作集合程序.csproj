@@ -8,11 +8,29 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="YXH_Tools_Files" Version="1.0.3" />
+    <PackageReference Include="YXH_Tools_Files" Version="1.0.20" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="App.config">
+    <None Update="App - 复制.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="邱宇.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="李文魁.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="施之暄.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="刘粟涛.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="陈海江.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="俞晓辉.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
